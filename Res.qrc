@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>board.png</file>
+        <file>hourglass.png</file>
+    </qresource>
+</RCC>
